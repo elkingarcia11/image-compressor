@@ -16,7 +16,7 @@ pip install pillow
 
 ## Usage
 
-1. **Import the Script**: Make sure the script is saved in a file, e.g., `compress_images.py`.
+1. **Import the Script**: Make sure the script is saved in a file, e.g., `main.py`.
 
 2. **Call the Function**: Use the function `compress_images_to_webp` to compress images.
 
